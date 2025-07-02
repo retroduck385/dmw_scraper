@@ -6,4 +6,4 @@ Step 1 Create a Virtual Environment:
 
 To deactivate: deactivate
 
-Download requirements.txt
+Step 2 Download requirements.txt
