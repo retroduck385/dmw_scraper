@@ -6,4 +6,5 @@ Step 1 Create a Virtual Environment:
 
 To deactivate: deactivate
 
-Step 2 Download requirements.txt
+Step 2 Download requirements.txt 
+  - pip install -r requirements.txt
